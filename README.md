@@ -125,7 +125,7 @@ This project implements a **unified white-on-black plotting architecture** by mo
 ### Execution
 1.  Clone the repository to your local machine:
     ```bash
-    git clone [https://github.com/hassankhalid8/radar-dsp-framework.git](https://github.com/hassankhalid8/radar-dsp-framework.git)
+    git clone [https://github.com/hassankhalid8/adaptive-radar-signal-processing.git](https://github.com/hassankhalid8/adaptive-radar-signal-processing.git)
     ```
 2.  Navigate to the repository directory in MATLAB.
 3.  Run the main script:
