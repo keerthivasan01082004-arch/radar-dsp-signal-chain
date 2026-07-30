@@ -1,6 +1,6 @@
 <!-- ============================ ANIMATED HEADER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,45:0e4166,100:22d3ee&height=210&section=header&text=Adaptive%20Radar%20DSP&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Target%20Detection%20%26%20Resolution%20in%20Non-Stationary%20Environments&descAlignY=58&descSize=16" width="100%" alt="Adaptive Radar Signal Processing"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,45:0e4166,100:22d3ee&height=210&section=header&text=Adaptive%20Radar%20DSP&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Target%20Detection%20%26amp%3B%20Resolution%20in%20Non-Stationary%20Environments&descAlignY=58&descSize=16" width="100%" alt="Adaptive Radar Signal Processing"/>
 </p>
 
 <p align="center">
