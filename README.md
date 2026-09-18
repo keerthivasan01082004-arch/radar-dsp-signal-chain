@@ -381,7 +381,6 @@ Target 1 as an outlier, and **detected both.** GO-CFAR, being the most conservat
 **Prerequisites** — MATLAB R2023a or newer, with the Signal Processing Toolbox.
 
 ```bash
-git clone https://github.com/HassanKhalid8/adaptive-radar-signal-processing.git
 ```
 
 ```matlab
