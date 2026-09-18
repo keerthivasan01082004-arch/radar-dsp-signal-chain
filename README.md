@@ -515,7 +515,3 @@ ordered-statistic CFAR, Swerling on fluctuating-target detection.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,55:0e4166,100:0b1120&height=140&section=footer&text=Detect%20%C2%B7%20Resolve%20%C2%B7%20Discriminate&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%"/>
 </p>
-
-<p align="center">
-  <sub>Built with MATLAB · Hassan Khalid · 2026</sub>
-</p>
