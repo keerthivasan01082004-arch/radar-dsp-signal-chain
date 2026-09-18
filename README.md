@@ -36,8 +36,6 @@ Every block is a switch you can flip. Change one line in **Section 0** and the e
 reconfigures: swap the waveform, swap the window, swap the CFAR variant, swap the clutter filter,
 swap the Swerling fluctuation model. Then watch the trade-offs appear in the plots.
 
-> **Course:** CE363 — Digital Signal Processing · Complex Engineering Problem (CEP)
-> **Author:** Hassan Khalid · Department of Computer Engineering · Reg. 2023435
 
 <details>
 <summary><b>📌 The core problem, in one paragraph</b></summary>
