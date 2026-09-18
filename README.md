@@ -501,15 +501,3 @@ aircraft from birds and weather.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12,20,30&height=3" width="100%"/>
 
-## 🎓 Academic Context
-
-Submitted as the **Complex Engineering Problem (CEP)** for **CE363 — Digital Signal Processing**,
-Department of Computer Engineering. Every algorithm in the chain is grounded in established radar
-literature — Skolnik on system fundamentals, Richards on signal processing, Rohling on
-ordered-statistic CFAR, Swerling on fluctuating-target detection.
-
-📄 **[Read the full technical report →](docs/Project_report.pdf)**
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,55:0e4166,100:0b1120&height=140&section=footer&text=Detect%20%C2%B7%20Resolve%20%C2%B7%20Discriminate&fontSize=22&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%"/>
-</p>
